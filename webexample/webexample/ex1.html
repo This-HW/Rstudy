@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <title>맛보기 HTML</title>
+</head>
+<body>
+  <h1>
+    HTML<sapn class="target1">재미</sapn>
+  </h1>
+  <img src="data/totoro.png" width="100">
+  <img id="two" src="data/totoro.png" width=100>
+  <hr>
+  <ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ol>
+  <script>
+    var dom = document.getElementById("two");
+    dom.onclick = function(){
+      alert("두 번째 토토로를 클릭함!!")
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <title>맛보기 HTML</title>
+</head>
+<body>
+  <h1>폼태그 학습</h1>
+  <hr>
+  <form method="get" action="https://search.naver.com/search.naver?">
+      검색단어 : <input type="text" name="query">
+      <input type="submit"  value="검색">
+  </form>
+  <hr>
+  <h1>Get방식 테스트</h1>
+  <form method="get" action="http://unico2013.dothome.co.kr/crawling/get.php">
+      이름 : <input type="text" name="name"><br>    
+      나이 : <input type="number" name="age"><br>
+      <input type="submit" value="Query전달(GET)">
+  </form>
+  <hr>
+  <h1>Post방식 테스트</h1>
+  <form method="POST" action="http://unico2013.dothome.co.kr/crawling/post.php">
+      이름 : <input type="text" name="name"><br>    
+      나이 : <input type="number" name="age"><br>
+      <input type="submit" value="Query전달(GET)">
+  </form>
+
+
+</body>
+</html>

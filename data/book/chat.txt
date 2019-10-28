@@ -1,0 +1,954 @@
+
+
+ 
+ Company Profile & Rights Guide
+
+As of March 2018 / Hanbit Media, Inc.
+
+
+I. Company Profile
+
+Hanbit Media, Inc. is one of the leading publishers located in Korea, which serves the needs of IT professionals, developers, programmers, administrators and users with over 400 books in both print and electronic formats.  
+¡Ü Year Founded: 1993
+¡Ü Founder & CEO: Tae-heon, Kim
+¡Ü Employees: + 90
+¡Ü Headquarters: 62 Yeonhui-ro 2-gil, Seodaemun-gu, Seoul Korea 
+¡Ü Business entity type: corporation 
+¡Ü Business Areas
+- Book publisher focused on IT.
+- IT education service provider hosting IT seminars, on/offline educations and e-Learning courses.
+
+Company History
+¡Ü 1993 | founded in Seoul by Tae-heon, Kim
+¡Ü1997 | partnered with O'Reilly Media, Inc. for local translation and distribution
+¡Ü 1999 | launched Hanbit Media website
+¡Ü 2003 | launched IT CookBook series for college students
+¡Ü 2004 | started copyright-export to China, Japan and Taiwan
+¡Ü 2009 | published the 100th title of IT CookBook college textbook series 
+¡Ü 2010 | launched Hanbit Mobile series
+¡Ü 2011 | launched MAKE Korea magazine
+¡Ü 2012 | launched HANBIT REALTIME eBook Service
+¡Ü 2013 | 20th company anniversary
+¡Ü 2015 | No. 1 IT Book Publisher in Korea
+
+Business: Publishing
+¡Ü IT Professionals
+Hanbit Media, Inc. provides high-quality content that helps technology professionals to build a comprehensive pathway to career success.
+
+¡· Programming : C/C++, Java, PHP/Perl/Python/Ruby, .NET/C#/Windows Programming, Ajax/HTML/JavaScript/CSS, Embedded Programming, Mobile and other programming languages
+¡· Web : Web Design, Web Programming, Web Service
+¡· Network & Security : Network, Security and Server/Network Management   
+¡· Database : MySQL, Oracle, MS-SQL/SQL, Access and other databases
+¡· OS & Server : Linux, Unix, Mac OS and MS Windows
+¡· Hardware : (Embedded) Hardware
+¡· Computer Engineering : Computer Engineering, Design Patterns, Data Structure, Algorithm, Computer Science
+¡· Computer/Internet Database : MySQL, Oracle, MS-SQL/SQL, Access
+
+¡Ü College textbooks
+Over 100 titles of college textbooks are published as IT CookBook series.
+
+¡· IT and Computer Science
+¡· Information and Communications 
+¡· Electricity / Electron : Signal Processing, Semi-conduct, Circuit Design, Microwave
+
+¡Ü HANBIT REALTIME eBook Service for IT Programmers
+To cope with rapid changing IT environment, Hanbit Media has launched ¡®HANBIT REALTIME eBook Service¡¯ in July 2012. ¡®Hanbit REALTIME¡¯ is eBook & POD (Print on Demand) service and has been servicing as DRM-free PDF format at Hanbit Media¡¯s website.
+
+#Contact Us
+We have online communication channels as follow which are currently serviced in Korean at the moment. 
+
+¡Ü Website | http://www.hanbit.co.kr/
+¡Ü Blog | http://blog.hanbit.co.kr/
+¡Ü Facebook | http://www.facebook.com/hanbitmedia 
+: It is certainly the quickest way to interact with us via Facebook page. 
+Please feel free to send us a message at any time. 
+¡Ü Twitter | http://twitter.com/#!/hanbit
+II. Rights Guide
+
+A Book List
+
+No.CategoryTitlePage1IT > OAPowerPoint 2016 For Starters Instantly Effective at Work42IT > OAExcel 2016 For Starters Instantly Effective at Work103IT > OAExcel, PowerPoint, Word 2016 & OneNote For Starters Instantly Effective at Work:174ChildrenAdventure in software kingdom: 
+Activate the hamburger chef bots!305ChildrenAdventure in software kingdom:
+ Activate the super computer in the theme park!336ChildrenAdventure in software kingdom: 
+Retrieve the jewel of the Statue at Historic sites36
+1) PowerPoint 2016 For Starters Instantly Effective at Work
+(Worldwide Copyright is available for this title now.)
+i. Product Details
+- Category: OA 
+- Level: Elementary
+-Author: Lee Hwa-jin
+- ISBN: 9788968483462
+- Published: Apr. 14, 2017
+- Pages: 208
+- Price: KRW 11,500
+ii. Description
+PowerPoint 2016 FOR STARTERS
+How to master PowerPoint easily and quickly with 80 key functions 
+
+With 80 core functions, you can learn the PowerPoint core functions that you can use right away!
+PowerPoint is instantly mastered with optimized practice examples!
+It contains 80 core functions that allow you to quickly learn PowerPoint functions for your business.
+
+- Helps you take advantage of all of PowerPoint's core features
+¡· How to handle basic methods of creating and editing slides
+¡· How to use slide themes / masters
+¡· How to create and visualize presentations
+¡· How to animate objects, insert multimedia files, and how to present slide shows.
+- Presented in full color to better illustrate the powerful presentation features of the PowerPoint 
+
+
+You can learn the essential functions with the optimized practical examples. 
+In addition, we have designed this book to be familiar with the PowerPoint interface. 
+
+[Who this book is for] 
+
+? A new or inexperienced PowerPoint user who are having difficulty writing PowerPoint documents and want to quickly learn the features of PowerPoint 2016
+? Workers & Students who want to learn only relevant PowerPoint functions quickly
+
+iii. Chapters
+
+CHAPTER 01 Creating a Basic Presentation
+_Core Practice 001 Customizing the Quick Access Toolbar
+- Easy and fast PowerPoint NOTE: Show the Quick Access Toolbar below the Ribbon
+_Core Practice 002 Creating Your Own Ribbon
+_Core Practice 003 Rename objects and show or hide objects
+_Core Practice 004 Select the theme you want
+_Core Practice 005 Changing the slide size
+_Core Practice 006 Adding slides and changing layout
+_Core Practice 007 Moving, copying, pasting / deleting slides
+- Easy and fast PowerPoint NOTE) Paste Options
+_Core Practice 008 Apply quick style after inputting text
+_Core Practice 009 Entering Text with WordArt with Quick Style
+_Core Practice 010 Apply a quick style after drawing a shape
+_Core Practice 011 Apply quick style after inserting picture
+_Core Practice 012 Applying Quick Styles after inserting a table
+_Core Practice 013 Apply quick style after inserting chart
+_Core Practice 014 Opening and Saving Presentation Documents
+- Easy and fast power point NOTE) Automatically save auto recovery information
+- Try it by yourself 01) Design slide using quick style
+
+CHAPTER 02 Creating Presentation Slide Background Formatting
+_Core Practice 015 Create a New Theme Font
+_Core Practice 016 Create a new theme color
+
+_Core Practice 017 Changing the Format of Slide Background
+_Core Practice 018 Title Slide Change the background format only
+_Core Practice 019 Using a Well-Made Layout as a Slide
+_Core Practice 020 Inserting Numbers into Slides
+_Core Practice 021 Saving a new theme
+- Try it by yourself 02) Create template using existing theme
+
+CHAPTER 03 Creating and formatting presentation content
+_Core Practice 022 Entering Text on a Slide
+_Core Practice 023 Changing fonts, font sizes, and font colors
+- Easy and fast Power Point NOTE Download free fonts
+_Core Practice 024 Changing Bullet Settings and Formatting
+- Easy and fast power point NOTE) Change bullets to pictures
+_Core Practice 025 Changing bullets to numbers
+_Core Practice 026 Adjusting Line and Paragraph Spacing
+_Core Practice 027 Adjusting the List Level
+_Core Practice 028 Replace the entire font of a presentation document at once
+- Easy and fast PowerPoint NOTE) Saving fonts
+- Try it by yourself 03) Design slides using text
+
+CHAPTER 04 Visualizing and Formatting Presentations
+
+_Core Practice 029 Grooming and Formatting
+_Core Practice 030 Create new shapes by merging multiple shapes
+_Core Practice 031 Resizing a shape and making a horizontal copy
+_Core Practice 032 Aligning shapes at even intervals
+- Easy and fast PowerPoint NOTE) Disable smart guide display
+_Core Practice 033 Extract color with eyedropper and apply it to figure
+_Core Practice 034 Apply shape shapes to other shapes equally
+
+_Core Practice 035 Making a Planar Shape a Solid Shape
+- Try it by yourself 04) Design slides using shapes
+_Core Practice 036 Entering text after inserting SmartArt graphic
+_Core Practice 037 Changing SmartArt Graphics Colors and Styles
+_Core Practice 038 Adding Shapes to SmartArt Graphics
+_Core Practice 039 Converting text to SmartArt graphics
+_Core Practice 040 Converting Pictures to SmartArt Graphics
+- Try it by yourself 05) Design slide using SmartArt graphics
+
+_Core Practice 041 Designing a Table
+_Core Practice 042 Designing a Chart
+_Core Practice 043 Save and recycle well-formed chart formats
+- Try it yourself 06) Design a slide using charts
+_Core Practice 044 Inserting an Online Picture
+_Core Practice 045 Adding Slide Design Using Automatically Presented Pictures
+- Easy and fast power point NOTE) When you do not want to use design ideas
+_Core Practice 046 Highlighting only specific parts of the picture
+_Core Practice 047 Keeping formatting after changing picture format and changing picture only
+_Core Practice 048 Removing unnecessary parts from the picture
+_Core Practice 049 Cut the picture to a desired shape and reduce its capacity
+_Core Practice 050 Create presentation files in one shot with multiple photos
+- Easy and fast PowerPoint NOTE) [Photo Album] dialog box
+_Core Practice 051 Visualize using icons
+- Easy and fast PowerPoint NOTE) Resizing objects, Capture key part of the screen and add it to the slide
+- Try it by yourself 07) Design slide using picture
+
+CHAPTER 05 Inserting and formatting multimedia in presentations
+_Core Practice 053 Execute up to a specific slide after inserting an audio clip
+_Core Practice 054 Leave only the desired portion of the entire audio clip
+_Core Practice 055 Create an audio clip that starts and ends smoothly
+_Core Practice 056 Apply quick style after inserting video
+- Easy and fast PowerPoint NOTE) Inserting video online
+_Core Practice 057 Changing the appearance and formatting of video clips
+_Core Practice 058 Leave only the desired portion of the entire video clip
+_Core Practice 059 Specifying specific points in a video clip
+_Core Practice 060 Setting a preview image of a video clip
+_Core Practice 061 Compressing media files
+- Try it out by yourself 08) Design slide using movie
+
+CHAPTER 06 Organizing and saving presentations slides
+_Core Practice 062 Organizing slides into sections
+_Core Practice 063 Saving Presentations
+- Easy and fast power point NOTE) Secure cloud storage OneDrive
+_Core Practice 064 Create PDF Document
+_Core Practice 065 Creating a Video File
+- Easy and fast power point NOTE) Setting video storage
+_Core Practice 066 Creating a Picture Presentation
+_Core Practice 067 Saving each slide as a JPEG file
+- Try it yourself 09) Split and edit slide sections by content
+
+CHAPTER 07 Preparing and Presenting a Presentation
+_Core Practice 068 Animating Objects
+_Core Practice 069 Add the animation and apply it to other objects equally
+_Core Practice 070 Applying Transitions to Slides
+- Easy and fast power point NOTE) Apply morphing transition effect
+_Core Practice 071 Setting up the slideshow
+
+- Easy and fast PowerPoint NOTE) Learn the components of the [Show Settings] dialog box
+_Core Practice 072 Reconstructing a Slideshow
+_Core Practice 073 Presentation Preparing and printing manuscripts
+_Core Practice 074 Creating and Printing Audience Handouts
+- Easy and fast PowerPoint NOTE) Insert page number into the handout
+_Core Practice 075 Practice Rehearsal Before Presentation
+_Core Practice 076 Starting the Slide Show
+_Core Practice 077 Presenting Using Presenter Tools
+_Core Practice 078 Recording Slide Show
+_Core Practice 079 Proceeding Online
+_Core Practice 080 Comment ink on slides freely
+
+
+2) Excel 2016 For Starters Instantly Effective at Work :
+(Worldwide Copyright is available for this title now.)
+i. Product Details
+- Category: OA 
+- Level: Elementary
+-Author: Jeon Mi-jin 
+- ISBN: 9788968483455
+- Published: March 2017
+- Pages: 260
+- Price: KRW 11,500
+ii. Description
+Excel 2016 For Starters 
+: With 101 core exercises, you can quickly learn Excel functions that you can use right at work! 
+
+It contains 101 core functions that allow you to quickly master the Excel functions required for your business. You can learn the core functions necessary to deal with Excel, such as how to write and edit basic documents in Excel, how to use formulas and functions, how to create charts and data visualization, and how to manage and analyze databases. 
+
+To get a good understanding of Excel, it provides know-how with detailed tips and notes. 
+- Helps you take advantage of all of Excel's core features
+- Presented in full color to better illustrate the powerful presentation features of the PowerPoint 
+
+
+You can learn the essential functions with the optimized practical examples. 
+In addition, we have designed this book to be familiar with the PowerPoint interface. 
+
+[Who this book is for] 
+
+? A new or inexperienced Excel user who are having difficulty writing Excel documents and want to quickly learn the features of the software
+? Workers & Students who want to learn relevant Excel functions quickly
+
+iii. Chapters
+
+CHAPTER 01 Creating a document
+_Core Practice 001 Open with Excel template and save workbook
+_Core Practice 002 Saving as a PDF file
+_Core Practice 003 Show / Hide Screen Components
+_Core Practice 004 Add commands to the Quick Launch toolbar
+- Try it by yourself 01) Create a custom ribbon tab
+_Core Practice 005 Specifying Cell Ranges with the Keyboard
+- Easy and fast Excel NOTE) Specifying Cell Ranges by Name Definition
+- Easy and fast Excel NOTE) Define / modify / delete cell name with name manager
+_Core Practice 007 Adjusting Row and Column Width
+_Core Practice 008 Paste with Width and Select Paste
+- Easy and fast Excel NOTE) Undo and redo
+_Core Practice 009 Linking and pasting as a picture
+- Easy and fast Excel NOTE) Check out the paste option by selecting
+
+_Core Practice 010 Renaming Worksheets and Changing Tab Colors
+_Core Practice 011 Moving / Copying / Deleting Worksheets
+- Try it by yourself 02) Rename the sheet and copy the picture in the sales chart
+_Core Practice 012 Protecting Worksheets
+- Easy and fast Excel NOTE) [Review] tab - [Change contents]
+_Core Practice 013 Entering Text / Numerical Data
+_Core Practice 014 Enter Date / Time
+_Core Practice 015 Enter Chinese characters / symbols
+- Easy and fast Excel NOTE) Enter special characters using kanji
+_Core Practice 016 Inserting and Editing Notes
+_Core Practice 017 Modifying Data and Inserting / Deleting Rows
+_Core Practice 018 Fill Data with Fill Handles
+_Core Practice 019 Quick Fill Fills Data Columns Quickly
+_Core Practice 020 Setting Korean / English Mode with Data Validation
+_Core Practice 021 Setting up a list with data validation
+- Try it by yourself 03) Find error data with validation
+
+CHAPTER 02 Editing and Printing a Document
+_Core Practice 022 Apply Table Style Style and Cell Style
+_Core Practice 023 Changing the Table Design and Converting to Scope
+_Core Practice 024 Formatting in Font Groups
+_Core Practice 025 Formatting in Custom, Display Format Groups
+- Try it out by yourself 04) Complete the rate sheet by specifying the font / custom format and display format
+
+_Core Practice 026 Customizing the display of alphanumeric data
+- Easy and fast Excel NOTE) Custom display format
+_Core Practice 027 Formatting Numbers in Korean
+- Quick and easy Excel NOTE) Type code to display numbers in Korean or Chinese characters
+
+_Core Practice 028 Formatting Numerical Data Representation as Positive / Negative / 0
+_Core Practice 029 Numbers Less than one million truncations / Comma in units
+_Core Practice 030 Setting the custom display format for day and cumulative time
+- Quick and easy Excel NOTE) Display format used for date / time custom format
+_Core Practice 031 Conditional formatting with cell highlighting and parent / child rules
+_Core Practice 032 Hue, conditional formatting with icons
+_Core Practice 033 Conditional Formatting and Editing Rules with Bars
+_Core Practice 034 Conditional formatting with formulas
+-Try it by yourself 05) Specify conditional formatting and custom display format
+_Core Practice 035 Tables, Conditional Formatting with Quick Analysis Tool
+_Core Practice 036 Fixing the Template
+_Core Practice 037 Tailoring and working with documents
+_Core Practice 038 Printing in Print Preview Setting the Selection Area and Margins
+_Core Practice 039 Specifying the Subject Row to Print Repeatedly
+_Core Practice 040 Previewing Page Breaks and Specifying Print Scale
+_Core Practice 041 Modifying the Page Break Divider
+_Core Practice 042 Setting Header / Footer in Page Layout View
+_Core Practice 043 Inserting a Background Picture
+-Easy and fast Excel NOTE) [Header / Footer tool, Design tab]
+- Try it by yourself 06) Set page layout and header / footer
+
+CHAPTER 03 Creating Formulas and Utilizing Functions
+Creating a formula with relative references
+
+_Core Practice 045 Creating a Formula with an Absolute Reference
+_Core Practice 046 Creating Formulas with Mixed References
+- Easy and fast Excel NOTE) Structure of formula
+- Try it by yourself 07) Calculate overtime pay by cell reference No.,
+_Core Practice 047 Creating a formula by name
+_Core Practice 048 Creating a formula with reference to a cell in another sheet
+_Core Practice 049 Calculation of formulas with automatic sum function
+
+- Try it by yourself 08) Define cell name to get part-time working cost
+_Core Practice 050 Calculating formulas in one go using structured references in a table
+- Easy and fast Excel NOTE: Structural reference of table
+_Core Practice 051 Specifying summary rows in the table
+_Core Practice 052 Finding the Maximum Value with MAX and LARGE Functions (Using Function Library and Formula Auto Completion)
+- Easy and fast Excel NOTE) Learn structure and usage of function
+_Core Practice 053 COUNTBLANK, COUNTA function to get attendance days / absences
+_Core Practice 054 INT, ROUND Function to display rounding and rounding
+_Core Practice 055 Display quotient and residual value with QUOTIENT, MOD function
+_Core Practice 056 Get number and sum amounts with ROW and SUMPRODUCT functions
+_Core Practice 057 Ranking with RANK.EQ, RANK.AVG function
+_Core Practice 058 Obtaining Course Scores and Training Points with IF Function
+_Core Practice 059 Obtaining Credit Rating with Overlapped IF Function
+_Core Practice 060 Classification of corporate credit with IF, AND, and OR functions
+_Core Practice 061 AVERAGE, AVERAGEIF
+_Core Practice 062 COUNTIF, COUNTIFS function to find the number of people satisfying the condition
+_Core Practice 063 SUMIF and SUMIFS function to calculate sum satisfying condition
+- Try it by yourself 09) Completion of sales results
+_Core Practice 064 Obtain age distribution frequency with FREQUENCY function
+_Core Practice 065 Get Sex by CHOOSE, MID Function
+_Core Practice 066 Calculating Date of Birth with DATE, LEFT, MID Functions
+_Core Practice 067 Modifying ID and E-mail address with LEFT, FIND, SUBSTITUTE function
+_Core Practice 068 Get DATEDIF and EOMONTH functions to calculate working days and retirement pay days
+- easy and fast Excel NOTE) DATEDIF function to calculate year, month, and day interval between dates
+
+_Core Practice 069 Display product name, unit price, and discount rate with HLOOKUP, VLOOKUP function
+- Easy and fast Excel NOTE: Rules and errors for Table_Array (data range)
+- Try it yourself 10) Complete the career (job) certification screen
+_Core Practice 070 Handling Errors with the IFERROR Function
+_Core Practice 071 Selecting the lowest price with INDEX, MATCH function
+
+CHAPTER 04 Creating Charts
+_Core Practice 072 Create charts for your data and change chart types
+_Core Practice 073 Chart Layout, Color, Style, and Filtering
+_Core Practice 074 Adjusting the scale of charts and displaying labels and legends
+_Core Practice 075 Setting the Chart Background and Eliminating the Gridlines
+_Core Practice 076 Pie Chart Replace 3-D Formatting and Theme
+_Core Practice 077 Creating a Combo (Dual Axis Mixed) Chart
+- Try it yourself. 11) Make the operating profit trend into a waterfall chart
+_Core Practice 078 Sun Burst Chart at a Glance
+_Core Practice 079 Inserting and Changing Sparkline Charts
+_Core Practice 080 Changing Sparkline Chart Style & Design
+
+CHAPTER 05 Database Management / Analysis and Automation
+_Core Practice 081 Creating a Database with Text Files
+- easy and fast Excel NOTE) Efficient database management
+_Core Practice 082 Text Split
+_Core Practice 083 Deleting duplicate data
+_Core Practice 084 Integrate data with the same items and apply quick formatting
+- Easy and fast Excel NOTE) Database creation rules
+- Try it by yourself 12) Integrate the input / output data with the product name and apply the quick format
+
+_Core Practice 085 Sorting by cell value
+- Easy and fast Excel NOTE) Sort order of data
+_Core Practice 086 Sorting in the order that you specify
+_Core Practice 087 Filtering with the SUBTOTAL Function
+- Easy and fast Excel NOTE) SUBTOTAL function to calculate the subtotal of a list or database
+_Core Practice 088 Extracting Data with Auto Filter
+_Core Practice 089 Extracting Data with Average and Top 10 Criteria
+_Core Practice 090 Creating Multiple Subtotals with Multiple Groups
+_Core Practice 091 Copying only summarized results of subtotals
+_Core Practice 092 Creating a Featured PivotTable
+_Core Practice 093 Creating a Custom New Pivot Table
+_Core Practice 094 Pivot table grouping / clearing and field filtering
+_Core Practice 095 Changing PivotTable Layout and Design
+- Try it yourself. 13) Use the PivotTable to create a transaction history chart for each year.
+_Core Practice 096 Pivot Table Slicer, Insert / Remove Timeline
+_Core Practice 097 Adding Development Tools Tab and Setting Macro Security
+_Core Practice 098 Key Functions Practice 098 Recording and Saving an Auto Macro
+_Core Practice 099 Running Macros with Shortcut Keys and Form Controls
+_Core Practice 100 Editing a Macro
+- Quick and easy Excel NOTE) Visual composition of Visual editor
+_Core Practice 101 Deleting a Macro
+- Try it yourself 14) Record alignment and conditional formatting macros and run them as shortcut keys
+
+3) Excel, PowerPoint, Word 2016 & OneNote For Starters Instantly Effective at Work:
+(Worldwide Copyright is available for this title now.)
+i. Product Details
+- Category: OA 
+- Level: Elementary
+-Author: Jeon Mi-jin 
+- ISBN: 9788968484926
+- Published: Sep. 2016
+- Pages: 620
+- Price: KRW 16,000
+ii. Description
+Excel, PowerPoint, Word, OneNote all in one guide for starters: Easy and friendly introductions with + 400 templates and examples, you can quickly learn the four main MS office applications that you can use right at work! 
+
+It covers full of tips and notes that allow you to quickly master the Excel, PowerPoint, Word and OneNote functions required for your business. You can learn the core functions to utilize the programs. 
+
+- Helps you take advantage of all of Office's core features
+- Tips and know-how for making Office easier to use
+- Presented in full color to better illustrate the powerful presentation features of the programs 
+- You can learn the essential functions with the optimized practical examples. 
+
+[Who this book is for] 
+? A new or inexperienced users who are having difficulty using MS office applications and want to quickly learn the features of the software
+? Workers & Students who want to learn relevant MS office functions quickly
+
+iii. Chapters
+
+PART 01 Excel 2016
+
+CHAPTER 01 Creating a document 027
+At a glance Explore the basic structure of the workspace 
+_Core Practice 01 Open with Excel template and save workbook 
+_Core Practice 02 Saving as a PDF file 
+_Core Practice 03 Show / Hide Screen Components 
+_Core Practice 04 Specifying Cell Ranges with the Keyboard 
+_Core Practice 05 Specifying Cell Ranges by Name Definition 
+_Core Practice 06 Adjusting Row and Column Width 
+_Core Practice 07 Paste and Paste Selected Paste 
+_Core Practice 08 Linking and pasting as a picture 
+_Core Practice 09 Rename worksheet and change tab color 
+_Core Practice 10 Moving / Copying / Deleting Worksheets 
+_Core Practice 11 Protecting Worksheets 
+Everything about viewing data at a glance 
+_Core Practice 12 Entering Text / Numeric Data 
+_Core Practice 13 Enter Date / Time 
+_Core Practice 14 Enter Hanja / Symbol 
+_Core Practice15 Modifying Data and Inserting / Deleting Rows 
+_Core Practice16 Fill data with fill handles 
+_Core Practice17 Quick Fill to Fill Data Columns Quickly 
+_Core Practice18 Setting Korean / English Mode with Data Validation 
+_Core Practice19 Setting Up the List with Data Validation 
+
+CHAPTER 02 Editing and Printing a Document 
+Get a glimpse of the look and data at a glance 
+
+_Core Practice 20 Applying Table Style and Cell Styles 
+_Core Practice 21 Changing the Table Design and Converting to Scope Formatting
+_Core Practice 22 Formatting in Font Groups 
+_Core Practice 23 Customizing, formatting in display format groups 
+_Core Practice 24 Customizing Character and Numeric Data Display Format
+_Core Practice 25 Specifying Formatting Numbers 
+_Core Practice 26 Formatting Numeric Data Formatting Positive / Negative / 0 
+_Core Practice 27 Numbers Less than one million crops / Comma in units 
+_Core Practice 28 Customizing the display format for day and cumulative time 
+Conditional Formatting 
+_Core Practice 29 Cell Emphasis and Parent / Child Rules 
+_Core Practice 30 Conditional formatting with hue and icon 
+_Core Practice 31 Conditional formatting with bars and editing rules 
+_Core Practice 32 Conditional Formatting with Formulas 
+_Core Practice 33 Tables, Conditional Formatting with Quick Analysis Tool Fixing the Template 
+_Core Practice 34 Tailoring the Documents by Tiling 
+_Core Practice 35 A4 at a glance Printing know-how to fit on one sheet 
+_Core Practice 36 Printing from Print Preview Setting the Selection Area and Margins 
+_Core Practice 37 Specifying the Subject Row to Print Repeatedly 
+_Core Practice 38 Previewing Page Breaks and Specifying Print Scale 
+_Core Practice 39 Modifying the Page Break Divider 
+_Core Practice 40 Setting Up Header and Footer in Page Layout View 
+_Core Practice 41 Inserting Background Pictures 
+
+CHAPTER 03 Creating Formulas and Utilizing Functions 
+Learn what reference types you use in a glance formula 
+_Core Practice 42 Creating a formula with relative references 
+_Core Practice 43 Creating a Formula with an Absolute Reference 
+_Core Practice 44 Creating a Formula with Mixed References 
+_Core Practice 45 Creating a Formula by Name 
+_Core Practice 46 Calculating Formulas with the Auto Sum Function 
+_Core Practice 47 Calculating Formulas at Once Using Structured References in a Table 
+_Core Practice 48 Specifying summary rows in a table 
+Learn how to use at a glance function 
+_Core Practice 49 Gathering maximal values ??with MAX and LARGE functions (using function library and formula autocomplete) 
+_Core Practice 50 COUNTBLANK, COUNTA Function Counts 
+_Core Practice 51 INT, ROUND Display rounding and rounding with the function 
+_Core Practice 52 Display quotient, remaining value with QUOTIENT, MOD function 
+_Core Practice 53 Finding numbers and totals with the ROW and SUMPRODUCT functions 
+_Core Practice 54 RANK.EQ, RANK.AVG Get rank with function 
+_Core Practice 55 Obtaining a Course Score and Training Score with IF Function 
+_Core Practice 56 Evaluating Credit Ratings with Nested IF Functions 
+_Core Practice 57 Classification of corporate credits with IF, AND, and OR functions 
+_Core Practice 58 COUNTIF, COUNTIFS Function to find the number of people that satisfy the condition 
+_Core Practice 59 Calculating totals satisfying condition with SUMIF and SUMIFS function 
+_Core Practice 60 Finding age distribution frequency with FREQUENCY function 
+_Core Practice 61 Gathering sex with CHOOSE and MID functions 
+_Core Practice 62 Calculate birthdate with DATE, LEFT, MID function 
+_Core Practice 63 Editing IDs and e-mail addresses with the LEFT, FIND, and SUBSTITUTE functions 
+_Core Practice 64 Obtain the working period and retirement payment date with DATEDIF, EOMONTH function 
+_Core Practice 65 Displaying Product Name, Unit Price, and Discount Rate with HLOOKUP, VLOOKUP Function 
+_Core Practice 66 Error Handling with the IFERROR Function 
+_Core Practice 67 INDEX, MATCH function 
+
+CHAPTER 04 Creating Charts 
+Description of charts that compare at a glance data at a glance 
+_Core Practice 68 Creating a Chart for Your Data and Changing the Chart Type 
+_Core Practice 69 Chart Layout, Color, Style, and Filtering 
+_Core Practice 70 Adjusting the scale of charts and displaying labels and legends 
+_Core Practice 71 Setting Up a Chart Background and Eliminating the Gridlines 
+_Core Practice 72 Pie Chart Replace 3-D formatting and themes 
+_Core Practice 73 Creating a Combo (Dual Axis Mixed) Chart 
+_Core Practice 74 Sun Blast Chart at a Glance 
+_Core Practice 75 Inserting and Changing Sparkline Charts 
+_Core Practice 76 Changing sparkline chart styles and designs 
+
+CHAPTER 05 Database Management / Analysis and Automation 
+Manage your viewing database at a glance 
+
+_Core Practice 77 Splitting Text, Deleting duplicate data 
+Integrating Data into the Same Item and Applying Quick Formatting 
+_Core Practice 80 Sorting by cell value 
+_Core Practice 81 Sorting in the order you specify 
+_Core Practice 82 Filter Using SUBTOTAL Function 
+_Core Practice 83 Extracting Data with Automatic Filters 
+_Core Practice 84 Extracting Data with Average and Top 10 Criteria 
+_Core Practice 85 Creating a Multiple Subtotal with Multiple Groups 
+_Core Practice 86 Copying only the summarized results of a subtotal 
+_Core Practice 87 Creating a Featured Pivot Table 
+_Core Practice 88 Master keys to analyze at-a-glance data, PivotTable 
+Create a new custom pivot table 
+_Core Practice 89 Toggling Pivot Table Grouping and Filtering Fields 
+_Core Practice 90 Changing Pivot Table Layout and Design 
+_Core Practice 91 PivotTable Slicer, Insert / Remove Timeline 
+_Core Practice 92 Adding a Development Tab and Setting Macro Security 
+_Core Practice 93 Recording and Saving Auto Macros Practice
+_Core Practice 94 Run macros with shortcut keys and form controls
+_Core Practice 95 Editing a Macro
+_Core Practice 96 Deleting a Macro 
+Practical notes Complete the working document with Excel core function 
+
+PART 02 PowerPoint 2016
+CHAPTER 01 Creating a Basic Presentation 
+Look at the main screen configuration of PowerPoint 2016 before entering. 
+Explore the basic structure and classification of slideshows at a glance 
+
+_Core Practice 01 Select the theme you want 
+_Core Practice 02 Changing the slide size 
+_Core Practice03 Adding Slides and Changing Layout 
+_Core Practice 04 Moving / Copying / Pasting / Deleting Slides 
+_Core Practice 05 Entering Text with WordArt with Quick Style 
+_Core Practice 06 Apply a quick style after drawing a shape 
+_Core Practice 07 Apply quick style after inserting picture 
+_Core Practice 08 Apply quick style after inserting table 
+_Core Practice 09 Apply quick style after inserting chart 
+_Core Practice 10 Opening and Saving Presentation Documents
+_Core Practice 11 Create a custom Ribbon 
+
+CHAPTER 02 Creating Presentation Slide Background Formatting 
+Consistency in background formatting at a glance slide 
+_Core Practice 12 Create a new theme font 
+_Core Practice 13 Creating a new theme color 
+_Core Practice 14 Change the slide background format 
+_Core Practice 15 Title Slide Change the background format only 
+_Core Practice 16 Using a well-created layout as a slide 
+_Core Practice 17 Inserting Numbers into Slides 
+_Core Practice 18 Saving a new theme 
+
+CHAPTER 03 Creating and formatting presentation content 
+At a glance Look at the principles of text representation 
+
+_Core Practice 19 Entering Text on a Slide 
+_Core Practice 20 Changing the font, font size, and font color 
+_Core Practice 21 Changing Bullet Settings and Formatting 
+_Core Practice 22 Changing bullets to numbers 
+_Core Practice 23 Adjusting Line and Paragraph Spacing 
+_Core Practice 24 Adjusting the list level 
+
+CHAPTER 04 Visualizing and Formatting Presentations 
+At a glance Discover how content is filled with slides 
+
+_Core Practice 25 Assigning and formatting gardens 
+_Core Practice 26 Creating a new shape by merging multiple shapes 
+_Core Practice 27 Resizing a shape and making horizontal copies 
+_Core Practice 28 Aligning shapes at even intervals 
+_Core Practice 29 Extracting colors with eyedroppers and applying them to shapes 
+_Core Practice 30 Applying shape styles to other shapes equally 
+_Core Practice 31 Making a Planar Shape a Solid Shape 
+_Core Practice 32 Enter text after inserting SmartArt graphic 
+_Core Practice 33 Changing SmartArt Graphics Colors and Styles 
+_Core Practice 34 Adding Shapes to SmartArt Graphics 
+_Core Practice 35 Converting Text to SmartArt Graphics 
+_Core Practice 36 Converting Pictures to SmartArt Graphics 
+_Core Practice 37 Designing the Key 
+Quick look at shapes at a glance, look at new charts 
+_Core Practice 38 Designing a Chart 
+_Core Practice 39 Recording and Reuse of Well-Made Chart Formats 
+_Core Practice 40 Inserting pictures online 
+_Core Practice 41 Highlighting only specific parts of the picture 
+_Core Practice 42 Keeping the formatting and changing the picture only after changing the picture formatting 
+_Core Practice 43 Remove unnecessary parts from the picture 
+_Core Practice 44 Cut the picture to the desired shape and reduce the capacity 
+
+CHAPTER 05 Inserting and formatting multimedia in presentations 
+Explore new features to help you see at a glance visual design 
+
+_Core Practice 45 To run a specific slide after inserting an audio clip 
+_Core Practice 46 Remaining desired portion of the entire audio clip 
+_Core Practice 47 Create an audio clip that starts and ends smoothly 
+_Core Practice 48 Applying Quick Styles after inserting video 
+_Core Practice 49 Experimenting with key features 49 Changing the appearance and formatting of video clips 
+_Core Practice 50 Leave the desired portion of the entire video clip 
+_Core Practice 51 Specifying specific points in a video clip 
+_Core Practice 52 Setting Up a Preview Image of a Video Clip 
+_Core Practice 53 Compressing Media Files 
+ 
+CHAPTER 06 Organizing and saving presentations slides 
+
+_Core Practice 54 Organizing slides into sections 
+_Core Practice 55 Saving Presentations 
+_Core Practice 56 Creating a PDF document 
+_Core Practice 57 Creating a Video File 
+_Core Practice 58 Creating a Picture Presentation 
+_Core Practice 59 Saving each slide as a JPEG file 
+
+CHAPTER 07 Preparing and Presenting a Presentation 
+_Core Practice 60 Animating Objects 
+_Core Practice 61 Adding the animation and applying it to other objects equally 
+_Core Practice 62 Applying Transition Effects to Slides 
+_Core Practice 63 Setting up the slideshow 
+_Core Practice 64 Reorganizing a Slideshow 
+_Core Practice 65 Creating and Printing Presentation Manuscripts 
+_Core Practice 66 Creating and Printing an Audience Handout 
+_Core Practice 67 Rehearse before presentation 
+_Core Practice 68 Starting the Slide Show 
+_Core Practice 69 Presenting Using the Presenter Tools 
+_Core Practice 70 Recording slide shows 
+_Core Practice 71 Presenting Online 
+Practical Usage Notes Completing the presentation design sheet with the core functions of PowerPoint 
+
+PART 03 Word 2016
+
+CHAPTER 01 Word 2016 Chopping the Basics 
+Look at the main screen configuration of Word 2016 before entering 
+
+_Core Practice 01 Creating and Saving a New Document / Saving in a Different Format 
+_Core Practice 02 Assigning and Releasing Passwords in Documents 
+_Core Practice 03 Zooming in and out of the screen and changing viewing options 
+
+CHAPTER 02 Entering and Basic Editing 
+Explore the different ways to edit text at a glance 
+
+_Core Practice 04 Inputting and Converting Hanja / Registering Common Kanji 
+_Core Practice 05 Entering Special Symbols and Formulas 
+_Core Practice 06 Enabling and disabling unit symbol input and AutoCorrect, Find and Replace 
+
+_Core Practice 08 Undo and Redo 
+_Core Practice 09 Moving and Copying Sentences / Importing Excel Tables as Word 
+_Core Practice 10 Insert, hide, hide, and delete notes 
+_Core Practice 11 Using the Spelling Checker to Correct Document Errors 
+
+CHAPTER 03 Decorating fonts 
+Specifying fonts, font colors, font sizes, underlining, and shading 
+
+_Core Practice 13 Adjusting Character Spacing and Width 
+_Core Practice 14 Specifying Shadow Effects and Phonetics 
+_Core Practice 15 Entering Subscripts, Circular Letters, and Emphasis 
+
+CHAPTER 04 Paragraph decoration 
+See at a glance paragraph setting that make your document neat 
+
+_Core Practice 16 Inserting Numbers in Paragraphs / Formatting Numbers and Changing the Start Number 
+_Core Practice 17 Inserting Bullets and Picture Bullets in a Paragraph 
+
+_Core Practice 18 Indent First Line and Indent Less Than Second Line 
+_Core Practice 19 Adjusting paragraph spacing 
+_Core Practice 20 Applying paragraph shading and copying formatting 
+_Core Practice 21 Assigning Multilevel Designations 
+_Core Practice 22 Style and modify with style bar
+_Core Practice 23 Create a new style 
+
+CHAPTER 05 Using shapes and objects 
+_Core Practice 24 Inserting and formatting searched map images 
+_Core Practice 25 Adjusting image location
+_Core Practice 26 Drawing and inserting captions 
+_Core Practice 27 Inserting and Changing the Style / Entering Text in a Geometry 
+_Core Practice 28 Copy, Align, and Rotate a Geometry 
+_Core Practice 29 Inserting and Editing WordArt, Creating a Diagram with SmartArt 
+_Core Practice 31 Insert charts and change style, type, and size 
+_Core Practice 32 Setting the Chart Layout, Changing the Data 
+
+CHAPTER 06 Decorating Table 
+
+_Core Practice 33 Insert, resize, move, merge and split cells 
+_Core Practice 34 Inserting, Deleting and Sorting Rows / Columns in a Table 
+_Core Practice 35 Specifying cell borders and shading 
+_Core Practice 36 Applying Table Styles 
+_Core Practice 37 Sorting table contents in ascending or descending order 
+_Core Practice 38 Automatic calculation of table contents using formula function 
+
+CHAPTER 07 Managing the page 
+Look at duplicate elements when creating a document at a glance 
+
+_Core Practice 39 Insertion and Page Break 
+_Core Practice 40 Zoning and specifying the page orientation and borders by section 
+_Core Practice 41 Assigning Headers and Footers to Documents
+_Core Practice 42 Inserting headers / footers by section  
+_Core Practice 43 Specifying Footer for Pair / Odd Pages 
+_Core Practice 44 Insert / Delete Page Number and Change Format
+_Core Practice 45 Inserting footnotes and endnotes on page 
+_Core Practice 46 Creating a Table of Contents 
+_Core Practice 47 Putting the cover on the document and specifying the background color and watermark 
+
+CHAPTER 08 Getting to know the output function 
+_Core Practice 48 and set margins 
+_Core Practice 49 Previewing and Printing the Print 
+_Core Practice 50 Print mailing lists to your invitation document with the mail merge feature 
+_Core Practice 51 Outputting Recipient Addresses to Label Paper 
+Complete the working document with core World functions 
+
+One notes
+
+_Core Practice 01 Installing One Note 
+_Core Practice 02 Run a Circle Notebook and log in to your original drive 
+_Core Practice 03 Logging in from Android and ISO device 
+_Core Practice 04 Looking at the Screen Structure and Basic Structure of One Note 
+Creating a new journal and managing sections 
+_Core Practice 06 page 
+_Core Practice 07 Writing a One Note on a Smartphone 
+_Core Practice 08 Working with Smart Device 
+_Core Practice 09 Original Note Basic Editing 
+_Core Practice 10 Importing External Data from PC
+_Core Practice 11 One Note Sharing function, Practical Usage of OneNote 
+
+Browse INDEX
+
+4) Adventure in software kingdom: Activate the hamburger chef bots!
+(Worldwide Copyright is available for this title now.)
+i. Product Details
+- Category: Children 
+- Level: Elementary
+-Author: Yu Kyung Sun
+- ISBN: 9788968488702
+- Published: Sep. 2017
+- Pages: 76
+- Price: KRW 12,800
+ii. Description
+The first step into software & coding training!
+Fostering Computational thinking with Fairy Tales reading
+
+It is the first adventure episode of the "Adventure in software kingdom" series, consists of Adventure Fairy Tale & Workbooks. 
+This book is designed to build computational thinking ability while venturing into the software kingdom. Preschoolers and elementary 1 ~ 2 grades students can easily understand software and coding. 
+
+One day, Min and Lee transfer to the software kingdom and meet little knight Jeff. 
+While they are traveling to save the perilous software kingdom, they encounter to missions which could be solved with computing concepts.   
+
+In Volume 1, Min, Lee and Jeff go to the hamburger castle and learn concepts of data and data classification, problem decomposition, and algorithms. In the second book, you will learn the concept of fast route finding in the algorithms. In the third book, you learn the binary numbers of computers.
+
+[Who this book is for] 
+? Preschoolers and elementary 1 ~ 2 grades students who want to build computational thinking and skills. 
+? Parents who want to teach their kids to code
+
+Editorial Review 
+Introducing computer programming to your children could be a challenge, especially for those who aren¡¯t familiar with the nuances of code.
+
+How do you educate your children a software coding? 
+It is a case that the first step into software & coding education is computing thinking.
+Should I teach my child in elementary school programming(coding) language? 
+It's very unlikely to close an answer. 
+
+Computer programming(coding) is just a process of training.
+The purpose of programming education is to nurture the basis for self-coding, or 'computational thinking building'. 
+ 
+This friendly fairy tale and workbook guide to grow your children¡¯s computational thinking. 
+It is provided 'Workbooks' that can be used to teach children how to understand computer literacy. 
+
+The illustrated resources help your Children start learning programming. 
+When your kids explore the software kingdom with the Min, Lee and Jeff develop problem-solving abilities and computational thinking skills that necessary for programming learning. In addition, the book contains a link to other resources to learn online. 
+
+Enhance your understanding with "Computing Thinking Up" and "Look at My Parents" corner.
+Do not worry if you are not familiar with Computer programming.  
+It is included tutorial guides throughout the book to grasp your child. 
+Improve your kid¡¯s understanding by referring to the 'Thinking Power UP' box in the middle of the workbook and the 'Parents' corner at the end of the book.
+
+Author 
+
+Yu Kyung-sun
+A programmer, teacher and mother of two children. 
+
+Programing is good fun. I hope computer programming education has not become another academic burden.
+
+iii. Chapters
+
+CHAPTER 01 
+Concepts of data and data classification, problem decomposition, and algorithms.
+
+CHAPTER 02 
+Workbook 
+
+5) Adventure in software kingdom: Activate the super computer in the theme park!
+(Worldwide Copyright is available for this title now.)
+i. Product Details
+- Category: Children 
+- Level: Elementary
+-Author: Yu Kyung Sun
+- ISBN: 9788968488764
+- Published: Oct. 2017
+- Pages: 80
+- Price: KRW 12,800
+ii. Description
+The first step into software & coding training!
+Fostering Computational thinking with Fairy Tales reading
+
+It is the first adventure episode of the "Adventure in software kingdom" series, consists of Adventure Fairy Tale & Workbooks. 
+This book is designed to build computational thinking ability while venturing into the software kingdom. Preschoolers and elementary 1 ~ 2 grades students can easily understand software and coding. 
+
+One day, Min and Lee transfer to the software kingdom and meet little knight Jeff. 
+While they are traveling to save the perilous software kingdom, they encounter to missions which could be solved with computing concepts.   
+
+In Volume 1, Min, Lee and Jeff go to the hamburger castle and learn concepts of data and data classification, problem decomposition, and algorithms. In the second book, you will learn the concept of fast route finding in the algorithms. In the third book, you learn the binary numbers of computers.
+
+[Who this book is for] 
+? Preschoolers and elementary 1 ~ 2 grades students who want to build computational thinking and skills. 
+? Parents who want to teach their kids to cod
+
+Editorial Review 
+Introducing computer programming to your children could be a challenge, especially for those who aren¡¯t familiar with the nuances of code.
+
+How do you educate your children a software coding? 
+It is a case that the first step into software & coding education is computing thinking.
+Should I teach my child in elementary school programming(coding) language? 
+It's very unlikely to close an answer. 
+
+Computer programming(coding) is just a process of training.
+The purpose of programming education is to nurture the basis for self-coding, or 'computational thinking building'. 
+ 
+This friendly fairy tale and workbook guide to grow your children¡¯s computational thinking. 
+It is provided 'Workbooks' that can be used to teach children how to understand computer literacy. 
+
+The illustrated resources help your Children start learning programming. 
+When your kids explore the software kingdom with the Min, Lee and Jeff develop problem-solving abilities and computational thinking skills that necessary for programming learning. In addition, the book contains a link to other resources to learn online. 
+
+Enhance your understanding with "Computing Thinking Up" and "Look at My Parents" corner.
+Do not worry if you are not familiar with Computer programming.  
+It is included tutorial guides throughout the book to grasp your child. 
+Improve your kid¡¯s understanding by referring to the 'Thinking Power UP' box in the middle of the workbook and the 'Parents' corner at the end of the book.
+
+Author 
+
+Yu Kyung-sun
+A programmer, teacher and mother of two children. 
+
+Programing is good fun. I hope computer programming education has not become another academic burden.
+
+iii. Chapters
+
+CHAPTER 01 
+Concept of fast route finding in the algorithms
+
+CHAPTER 02 
+Workbook 
+
+
+
+6) Adventure in software kingdom: Retrieve the jewel of the Statue at 
+Historic sites
+(Worldwide Copyright is available for this title now.)
+i. Product Details
+- Category: Children 
+- Level: Elementary
+-Author: Yu Kyung Sun
+- ISBN: 9788968488733
+- Published: Dec. 2017
+- Pages: 80
+- Price: KRW 12,800
+ii. Description
+The first step into software & coding training!
+Fostering Computational thinking with Fairy Tales reading
+
+It is the first adventure episode of the "Adventure in software kingdom" series, consists of Adventure Fairy Tale & Workbooks. 
+This book is designed to build computational thinking ability while venturing into the software kingdom. Preschoolers and elementary 1 ~ 2 grades students can easily understand software and coding. 
+
+One day, Min and Lee transfer to the software kingdom and meet little knight Jeff. 
+While they are traveling to save the perilous software kingdom, they encounter to missions which could be solved with computing concepts.   
+
+In Volume 1, Min, Lee and Jeff go to the hamburger castle and learn concepts of data and data classification, problem decomposition, and algorithms. In the second book, you will learn the concept of fast route finding in the algorithms. In the third book, you learn the binary numbers of computers.
+
+[Who this book is for] 
+? Preschoolers and elementary 1 ~ 2 grades students who want to build computational thinking and skills. 
+? Parents who want to teach their kids to cod
+
+Editorial Review 
+Introducing computer programming to your children could be a challenge, especially for those who aren¡¯t familiar with the nuances of code.
+
+How do you educate your children a software coding? 
+It is a case that the first step into software & coding education is computing thinking.
+Should I teach my child in elementary school programming(coding) language? 
+It's very unlikely to close an answer. 
+
+Computer programming(coding) is just a process of training.
+The purpose of programming education is to nurture the basis for self-coding, or 'computational thinking building'. 
+ 
+This friendly fairy tale and workbook guide to grow your children¡¯s computational thinking. 
+It is provided 'Workbooks' that can be used to teach children how to understand computer literacy. 
+
+The illustrated resources help your Children start learning programming. 
+When your kids explore the software kingdom with the Min, Lee and Jeff develop problem-solving abilities and computational thinking skills that necessary for programming learning. In addition, the book contains a link to other resources to learn online. 
+
+Enhance your understanding with "Computing Thinking Up" and "Look at My Parents" corner.
+Do not worry if you are not familiar with Computer programming.  
+It is included tutorial guides throughout the book to grasp your child. 
+Improve your kid¡¯s understanding by referring to the 'Thinking Power UP' box in the middle of the workbook and the 'Parents' corner at the end of the book.
+
+Author 
+
+Yu Kyung-sun
+A programmer, teacher and mother of two children. 
+
+Programing is good fun. I hope computer programming education has not become another academic burden.
+
+iii. Chapters
+
+CHAPTER 01 
+Concept of binary numbers of computers
+
+CHAPTER 02 
+Workbook 
+
+
+Published On 03/05/2018 | Page 20 / 39
+
+?
+Hanbit Media, Hanbit Building, 62 Yeonhui-ro 2-gil, Seodaemun-gu, Seoul Korea
+Contact us: marketing@hanbit.co.kr / ?+82-2-2128-8745
+
