@@ -37,7 +37,7 @@ head(carInfos)
 
 
 # carInfos[1] %>% html_nodes('.tit.ellipsis') %>% html_text()
-titles <- carInfos %>%  html_nodes('.tit.ellipsis') %>% html_text()
+titles <- carInfos %>%  html_nodes('.tit.ellipsis') %>% html_text();
 # head(titles)
 carfuelInfo <- carInfos %>%  html_nodes('.list-inner') %>%  html_nodes('.mode-cell fuel') %>% html_text()
 carfuelInfo
