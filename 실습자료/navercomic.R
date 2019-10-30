@@ -17,7 +17,6 @@ i<-1
 url <- paste(site, i, sep="")
 
 while(1){
-  
   page <- read_html(url)
   comics <- page %>% html_nodes('.challengeInfo')
   
