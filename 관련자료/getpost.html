@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>GETPOST 테스트</title>
+</head>
+<h1>GET 방식 요청과 POST 방식 요청 테스트</h1>
+<hr>
+<h2>GET</h2>
+<a href="http://unico2013.dothome.co.kr/crawling/get.php?name=둘리&age=1000">Query 문자열을 추가하여 요청</a><br>
+<form method="GET" action="http://unico2013.dothome.co.kr/crawling/get.php">
+이름 <input type="text" name="name"><br>
+나이 <input type="number" name="age"><br>
+<input type="submit" value="입력폼으로 요청">
+</form>
+<hr>
+<h2>POST</h2>
+<form method="POST" action="http://unico2013.dothome.co.kr/crawling/post.php">
+이름 <input type="text" name="name"><br>
+나이 <input type="number" name="age"><br>
+<input type="submit" value="입력폼으로 요청">
+</form>
+</html>
