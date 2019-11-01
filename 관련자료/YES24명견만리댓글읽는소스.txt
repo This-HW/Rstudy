@@ -1,0 +1,57 @@
+# [ YES24의 명견만리 댓글 읽어오기 ]
+
+library(RSelenium)
+remDr <- remoteDriver(remoteServerAddr = "localhost", port = 4445, browserName = "chrome")
+remDr$open()
+remDr$navigate("http://www.yes24.com/24/goods/40936880")
+
+#remDr$executeScript("scrollTo(0, document.body.scrollHeight-200))
+
+webElem <- remDr$findElement("css", "body")
+remDr$executeScript("scrollTo(0, 0)", args = list(webElem))
+Sys.sleep(1)
+remDr$executeScript("scrollBy(0, 2500)", args = list(webElem))
+Sys.sleep(1)
+remDr$executeScript("scrollBy(0, 2500)", args = list(webElem))
+Sys.sleep(1)
+remDr$executeScript("scrollBy(0, 1000)", args = list(webElem))
+Sys.sleep(3)
+repl_v = NULL
+endFlag <- FALSE
+page <- 3
+
+repeat {
+  for(index in 3:7) {
+    fullContentLinkCSS <- paste("#infoset_reviewContentList > div:nth-child(",index,") > div.btn_halfMore > a", sep='')
+    fullContentLink<-remDr$findElements(using='css selector',  fullContentLinkCSS)
+    if (length(fullContentLink) == 0) {
+      endFlag <- TRUE
+      break
+    }
+    sapply(fullContentLink,function(x){x$clickElement()})      
+    Sys.sleep(1)
+    fullContentCSS <- paste("div:nth-child(",index,") > div.reviewInfoBot.origin > div.review_cont > p", sep='')
+    fullContent<-remDr$findElements(using='css selector', fullContentCSS)
+    print(fullContent)
+    repl <-sapply(fullContent,function(x){x$getElementText()})    
+    print(repl)
+    repl_v <- c(repl_v, unlist(repl))
+  }
+  if(endFlag)
+    break;  
+  
+  if(page == 10){
+    page <- 3
+    nextPageCSS <- "#infoset_reviewContentList > div.review_sort.sortTop > div.review_sortLft > div > a.bgYUI.next"
+  }
+  else{
+    page <- page+1;
+    nextPageCSS <- paste("#infoset_reviewContentList > div.review_sort.sortTop > div.review_sortLft > div > a:nth-child(",page,")",sep="")
+  }
+  remDr$executeScript("scrollTo(0, 0)", args = list(webElem))
+  nextPageLink<-remDr$findElements(using='css selector',nextPageCSS)  
+  sapply(nextPageLink,function(x){x$clickElement()})  
+  Sys.sleep(5)
+  print(page)
+}
+write(repl_v, "yes24.txt")

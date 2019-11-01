@@ -1,0 +1,4 @@
+java -jar selenium-server-standalone.jar -port 4445
+
+java -jar D:\Rstudy\Rstudy\selenium-server-standalone-master\bin\selenium-server-standalone.jar -port 4445
+

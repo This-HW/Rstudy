@@ -1,0 +1,45 @@
+# [ 신라스테이 호텔에 대한 전체 페이지 댓글 읽기 ]
+remDr <- remoteDriver(remoteServerAddr = "localhost" , port = 4445, browserName = "chrome")
+remDr$open()
+url<-'https://www.agoda.com/ko-kr/shilla-stay-seocho/hotel/seoul-kr.html?cid=-204'
+remDr$navigate(url)
+
+#나중에 하기 클릭하여 팝업메뉴 없애기
+laterAction<-remDr$findElement(using='css',
+                               '#SearchBoxContainer > div > div > div.Popup__container.Popup__container--garage-door > div > div > div.AlertMessage.CalendarAlertMessage > a')
+if(length(laterAction) != 0){
+  laterAction$clickElement()
+} 
+
+remDr$executeScript("scrollBy(0, 8400)")
+pageLink <- NULL
+pageLink <- remDr$findElement(using='css',"#customer-reviews-panel > button > div > span")
+if(length(pageLink) != 0){
+  cat("클릭함\n")
+  pageLink$clickElement()
+}
+
+remDr$executeScript("scrollBy(0, 50)")
+reple <- NULL
+end <- NULL
+repeat{
+  doms <- remDr$findElements(using = "css selector", ".Review-comment-bodyText")
+  Sys.sleep(1)
+  reple_v <- sapply(doms, function (x) {x$getElementText()})
+  print(reple_v)
+  reple <- append(reple, unlist(reple_v))
+  cat(length(reple), "\n")
+  pageLink <- NULL
+  pageLink <- remDr$findElement(using='css',"#reviewSection > div:nth-child(4) > div > span:nth-child(3) > i")
+  Sys.sleep(1)
+  try(end<-remDr$findElement(using='css', ".Review-paginator-arrow--inactive > .ficon-carrouselarrow-right"))
+  
+  if(length(end) != 0)  {
+    cat("종료\n")
+    break; 
+  }
+  pageLink$clickElement()
+  Sys.sleep(1)
+}
+cat(length(reple), "개의 댓글 추출\n")
+write(reple,"hotel.txt")

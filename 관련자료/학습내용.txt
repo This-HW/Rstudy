@@ -1,0 +1,481 @@
+[ 강사 컴퓨터 접근 ]
+
+시작메뉴 -> 오른쪽버튼 -> 실행
+열기박스에 입력 : \\70.12.116.50
+교육자료 폴더
+
+[ 테스트환경 구축 ]
+- R
+  (1) JDK(Java Development Kit)
+       http://java.sun.com/
+       Java라는 언어의 개발 환경
+  (2) Chrome Browser
+  (3) R
+       https://www.r-project.org/
+  (4) Rstudio
+
+   JAVA_HOME
+
+   디렉토리명 : Rstudy
+   C:/
+
+   c(10, 20, 30)
+   c(4, 1, 8, 6, 10)
+   print(출력하려는데이터를 담고있는 변수명)
+   q()
+   plot(그래프로출력하려는데이터셋)
+   아규먼트 : 함수를 호출하면서 전달하는 데이터(들)
+   v1 <- c(4, 1, 8, 6, 10)
+   #v1변수에 저장된 데이터셋에서 최대값
+   v2 <- max(v1)
+   #v1변수에 저장된 데이터셋에서 최소값
+   v3 <- min(v1)
+   avg(), sd()
+   seq(시작값, 종료값, 증가치)
+
+
+
+   함수명 <- function ([매개변수...]) {
+        수행명령문장(들)
+   }
+   예약어, 키워드 : 이미 기능이 정해져 있는 워드
+
+   r1 <- 10
+   r1 <- 1:10
+   r1 <- c(10,20,30)
+   r1 <- NULL
+   r1 <- TRUE
+   r1 <- '가나다'
+   r1 <- 'nums'  # "nums" 리터럴(데이터값)
+   r1 <- nums    # 변수
+   r1 <- nums() # 함수
+
+   'nums' <- r1  # 오류
+   nums <- r1    # 가능
+   nums() <- r1 # 오류
+
+   l-value <- r-value
+   장소         값
+   변수         식(변수,리터럴,함수호출식..)
+
+
+  c(10, 20, TRUE)
+  c(10, 20, "A")
+  ?rep
+
+   sample(1:20, 3) # 중복(x)
+   sample(1:45, 6) # 중복(x)
+   sample(1:10, 7) # 중복(x)
+   sample(1:10, 7, replace=T) # 중복(o)
+
+
+
+ 강사컴퓨터 암호 : unico
+
+  팩터(factor, 범주형)데이터셋 : 
+             질적 데이터 : 자료의 값이 아니라 각 값이 나타내는 의미 사용하려는 경우
+	명목형 자료 : 분류를 목적으로 사용하는 자료
+             순위형 자료 : 순서로 분류할 때 사용하는 자료
+  
+
+
+(1) 숫자로만 구성된 데이터 파일  	: scan()
+(2) 일반 텍스트 데이터 파일 
+     행단위				: readLines()
+     워드단위			: scan()
+(3) CSV 형식의 데이터 파일		: read.csv()
+(4) EXCEL 형식의 데이터 파일		: 패키지를 추가설치
+(5) XML 형식의 데이터 파일		: 패키지를 추가설치
+(6) DataBase의 데이터		: 패키지를 추가설치
+(7) JSON 형식의 데이터 파일		: 패키지를 추가설치
+
+     JavaScript Object Notation
+
+     {
+        "이름" : 값, "이름" : 값, "이름" : 값
+     }
+
+   http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1168065000
+   [ 컴퓨터 : 0과 1로만 인식한다. ]
+
+   3      00000011
+   10     00001010                       01100001
+
+   "a"         "a" - "z", "A" - "Z"     0x61     0x41
+   "abc"
+   "가"        "가"-"힣"1989년-완성형한글코드-KSC5601- 0xB0A1
+                                                              EUC-KR, CP949, MS949 - ansi 
+                 UNICODE-2바이트-UTF-16 -0xAC00
+                               1바이트~4바이트(n바이트)-UTF-8-%EA%B0%80
+
+   "가나다"
+   1970년대
+
+
+
+- 컴파일 언어  	: C, C++, C#, Java
+  - 인터프리터 언어	: R, python, JavaScript
+
+    소스파일작성  --> 번역(컴파일)-실행파일  --> 실행파일로 실행
+
+    소스파일작성, 코드명령어  ----------------> 번역+실행
+
+
+
+
+
+
+
+
+ c(10), c(10,20)
+
+[ 함수(function) ]
+- 함수를 사용하는 방법 : 호출-함수명,기능,아규먼트사양,리턴값
+- 함수를 만드는 방법
+   - 함수 : 자주사용되는 기능을 수행코드로 만든 코드덩어리
+   - 기능(함수명), 매개변수, 리턴값
+
+      함수명1 <- function() 
+                      수행문장     
+      함수명2 <- function(p1) 
+                      수행문장     
+      함수명3 <- function() { 
+                      수행문장1
+                      수행문장2     
+                     }
+      함수명4 <- function(p1, p2) { 
+                      수행문장1
+                      수행문장2    
+                      return() 
+                     }
+      함수명5 <- function(...) { 
+                      수행문장1
+                      수행문장2    
+                      return(리턴값) 
+                     }
+
+
+  wifi : MULTI_GUEST
+  비밀번호 : guest1357
+   
+   tryCatch(코드블럭, warning=함수, error=함수, finally=코드블럭)
+
+   apply(매트릭스, 1또는2, 함수)
+
+   apply(m, 1, sum)
+   apply(m, 1, max)
+
+   apply <- function(f) {
+
+           if(num == 1) {
+              row <- 행을 꺼낸다.
+              rowS <- func(row)
+           } else {
+
+           }          
+
+   }
+   
+   test2 <- function() { .... }
+   test2()
+   sample2 <- test2
+   sample2()
+
+
+
+
+
+
+  f1 <- function() {
+
+          }
+
+  f1()
+  print(f1)   # f1
+  f2 <- f1
+  f2()
+  print(f2)
+
+28일 : 교재내용으로 정리, 웹 기술의 개요(HTML, CSS Selector, Xpath, JavaScript)
+29일 : 정적 컨텐츠의 크롤링&스크래핑
+30일 : 정규표현식 활용, SNS의 Open API를 활용한 데이터 수집
+30일 : 공공DB 데이터 수집, 동적 컨텐츠의 크롤링&스크래핑
+31일 : 동적 컨텐츠의 크롤링&스크래핑
+
+
+   웹 기술 학습 소스 폴더 : webexample
+
+   html 파일명 : first.html
+   GML  ----> SGML  ----> HTML
+                             ----> XML
+
+   ANSI
+
+
+  http://unico2013.dothome.co.kr/crawling/get.php
+  http://unico2013.dothome.co.kr/crawling/post.php
+
+  http://unico2013.dothome.co.kr/crawling/tagstyle.html
+
+  http://unico2013.dothome.co.kr/crawling/exam.html
+
+ name': '유니코', 'age': 10
+
+
+
+
+
+
+
+  URL : Uniform Resource Locator
+
+  ---> HTTP URL
+
+  http://www.google.com/
+  http://www.daum.net/
+  https://search.naver.com/search.naver?query=%ED%86%A0%ED%86%A0%EB%A1%9C
+  https://search.naver.com/search.naver?query=R
+
+
+
+
+
+  웹 클라이언트(브라우저)에서 웹 서버에게 요청할 때 함께 전달하는 name과 value로 
+  구성된 문자열을 Query 문자열이라고 한다. 이 때 Query 문자열을 서버에게 전달하는
+  방식은 두 가지가 있다.
+
+  GET : 요청 문자열 뒤에 ? 기호와 함께 추가하여 전달
+  POST
+
+
+
+
+
+
+
+
+
+
+
+  http://unico2013.dothome.co.kr/crawling/tagstyle.html
+
+  http  --> https
+
+  Active-X : 2000~2012 : IE   --> HTML5(2006~2012)
+
+  2014 2017년까지 : JavaScript
+
+  UTF-8
+  EUC-KR(MS949,CP949,ansi)
+
+  http://movie.naver.com/movie/point/af/list.nhn?page=1
+
+  
+  (1) 웹 페이지의 URL 문자열을 파악한다.(Query 문자열을 포함)
+  (2) 웹 페이지의 컨텐츠가 어떤 문자셋으로 작성되었지 파악한다.<meta>
+  (3) 추출하려는 컨텐츠를 포함하고 있는 태그를 찾는다.
+  (4) 찾은 태그의 CSS Selector 또는 Xpath 를 판단한다.
+
+  rvest 라는 패키지를 사용
+
+   태그명[속성명]                         *[속성명]   [속성명]
+   태그명[속성명=속성값]
+   태그명[속성명^=속성값]
+   태그명[속성명$=속성값]
+
+*
+태그명
+.클래스명
+#아이디명 
+태그명.클래스명
+상위태그명 > 자식태그명 > 손자태그명 
+상위태그명.클래스명 > 자식태그명.클래스명   
+상위태그명.클래스명   자손태그명              
+상위태그명 > 자식태그명  자손태그명     
+#아이디명 > 태그명.클래스명
+태그명[속성]
+태그명[속성=값]
+태그명[속성$=값]
+태그명[속성^=값]
+태그명:nth-of-type(3)
+
+
+
+
+
+
+body > h1       h1
+
+body > table > tbody > tr.name	tr.name
+
+#target
+
+body > table > tbody > tr:nth-child(2) > td:nth-child(1)
+
+ #old_content > table > tbody > tr > td.title > a.movie
+
+  
+
+URL setting -> read_html()  -> html_nodes()  -> html_text()
+
+
+
+https://movie.naver.com/movie/point/af/list.nhn?page=8
+https://movie.naver.com/movie/point/af/list.nhn?page=5
+
+
+https://movie.daum.net/moviedb/grade?movieId=121137&type=netizen
+
+ div.raking_grade > em
+#mArticle > div.detail_movie.detail_rating > div.movie_detail > div.main_detail > ul > li > div > div.raking_grade > em
+#mArticle > div.detail_movie.detail_rating > div.movie_detail > div.main_detail > ul > li > div > div.raking_grade > em
+
+
+//*[@id="old_content"]/table/tbody/tr[3]/td[2]/text()
+//*[@id="old_content"]/table/tbody/tr[8]/td[2]/text()
+
+
+gsub("[[:punct:]]","",data[1])
+gsub("e","E",data[2])
+gsub("[[:digit:]]","",data[3])
+gsub("[[:upper:][:lower:]]","",data[4])
+gsub("[[:digit:][:punct:]]","",data[5])
+gsub("[[:blank:]]","",data[6])
+tolower(data[7])
+
+
+
+http://www.saramin.co.kr/zf_user/search?search_area=main&search_done=y&search_optional_item=n&searchType=default_mysearch&searchword=DATA%20SCIENTIST
+
+
+
+
+
+  [ Xpath 식 ]			[ CSS Selector ]
+  //p[@class='title']     		p.title
+
+     //p[@class='title']
+
+     //table/tbody/tr/th[@id='f']
+
+     //ol/li
+     //ol/li[2]
+
+
+
+
+
+
+
+    //project
+    /wikimedia/projects/project
+
+    /wikimedia/projects/project[1]
+    /wikimedia/projects/project[@name="Wikipedia"]
+    
+
+
+
+
+
+
+
+
+  //*[@id="content"]/div[1]/div[1]/section[2]/div[1]/div/div/ul/li/p
+
+  HTTP + R
+
+install.packages("httr")
+library(httr)
+library(rvest)
+http.standard <- GET('http://www.w3.org/Protocols/rfc2616/rfc2616.html')
+title2 = html_nodes(read_html(http.standard), 'div.toc h2')
+title2 = html_text(title2)
+title2
+
+# jpg
+h = read_html('http://unico2013.dothome.co.kr/productlog.html')
+imgs = html_nodes(h, 'img')
+img.src = html_attr(imgs, 'src')
+for(i in 1:length(img.src)){
+  res = GET(paste('http://unico2013.dothome.co.kr/',img.src[i], sep=""))
+  writeBin(content(res, 'raw'), paste('c:/Temp/', img.src[i], sep=""))
+} 
+
+ http://www.naver.com:포트번호/
+
+ http://www.naver.com/
+
+ IEEE
+
+ http://unico2013.dothome.co.kr/crawling/get.php?name=%EB%91%98%EB%A6%AC&age=1000
+
+ Query 문자열이나 Form 데이터가 서버로 전달될 때
+ 1. name=value 형식
+ 2. 여러개의 name=value는 & 기호로 구분한다.
+ 3. 영문대소문자, 숫자, 일부특수문자는 그대로 전달되고 그 외의 문자
+     %16진수코드값 으로 전달된다.
+ 4. 공백은 + 기호로 전달되거나 %16진수코드값으로 전달된다.
+
+https://search.naver.com/search.naver?sm=top_hty&fbm=0&ie=utf8
+&query=%EA%B0%80ABC+123
+
+http://unico2013.dothome.co.kr/crawling/get.php?
+name=%EA%B0%80%EB%82%98%EB%8B%A4ABCabc+123&age=3
+
+
+ [ 추가로 전달하는 문자열 ]
+ GET 방식 : 요청 URL 문자열 뒤에 ? 기호 뒤에
+ POST 방식 : 요청 바디
+
+OAuth란?
+OAuth는 이렇게 제각각인 인증방식을 표준화한 인증방식이다. 
+OAuth를 이용하면 이 인증을 공유하는 애플리케이션끼리는 별도의 
+인증이 필요없다. 
+따라서 여러 애플리케이션을 통합하여 사용하는 것이 가능하게 된다.
+
+
+ 네이버 블로그, 뉴스
+ 트위터
+ 공공DB
+
+
+  http://www.yes24.com/Product/goods/40936880
+  
+
+  http://comic.naver.com/comment/comment.nhn?titleId=570503&no=135
+
+ https://www.agoda.com/ko-kr/shilla-stay-seocho/hotel/seoul-kr.html?cid=-204
+
+[ 아고다 소스 ]
+  remDr <- remoteDriver(remoteServerAddr = "localhost" , port = 4445, browserName = "chrome")
+remDr$open()
+url<-'https://www.agoda.com/ko-kr/shilla-stay-seocho/hotel/seoul-kr.html?cid=-204'
+remDr$navigate(url)
+
+#나중에 하기 클릭하여 팝업메뉴 없애기
+laterAction<-remDr$findElement(using='css',
+ '#SearchBoxContainer > div > div > div.Popup__container.Popup__container--garage-door > div > div > div.AlertMessage.CalendarAlertMessage > a')
+if(length(laterAction) != 0){
+  laterAction$clickElement()
+} 
+
+test<-NULL
+test<-remDr$findElement(using='css',
+           '#customer-reviews-panel > span')
+test
+
+remDr$executeScript("scrollBy(0, 8400)")
+
+
+
+
+
+
+
+
+
+
+
+
+
