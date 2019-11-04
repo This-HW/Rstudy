@@ -41,12 +41,9 @@ webElem$clickElement()
 
 target_list <- NULL
 
-# help("sapply")
-
 i <- 1
 total <- remDr$findElement(using="css", "#panel div.panel_content_flexible > div.search_result_top > div.srt > h2 > span > em")
 total <- total$getElementText()[[1]];
-total
 page <- NULL
 
 page_count <- page_count(remDr)
