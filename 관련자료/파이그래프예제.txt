@@ -1,0 +1,8 @@
+# 파이그래프
+(성적 <- read.table("성적.txt", header=TRUE));
+pie(성적$국어, labels=paste(성적$성명, "-", 성적$국어), col=rainbow(10))
+pie(성적$국어, clockwise=T, labels=paste(성적$성명, "-", 성적$국어), col=rainbow(10))
+pie(성적$국어, density=10, clockwise=T, labels=paste(성적$성명, "-", 성적$국어), col=rainbow(10))
+pie(성적$국어, labels=paste(성적$성명, "-", 성적$국어), col=rainbow(10), main="국어성적", edges=10)
+pie(성적$국어, labels=paste(성적$성명,"\n","(",성적$국어,")"), col=rainbow(10))
+pie(rep(1, 24), col = rainbow(24), radius = 1)

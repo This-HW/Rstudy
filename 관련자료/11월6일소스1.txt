@@ -1,0 +1,59 @@
+# 히스토그램
+hist(성적$국어, main="성적분포-국어", xlab="점수", breaks=5, col = "lightblue", border = "pink")
+hist(성적$수학, main="성적분포-수학", xlab="점수", col = "lightblue", border = "pink")
+hist(성적$국어, main="성적분포-국어", xlab="점수", ylab="도수", col=rainbow(12), border = "pink")
+
+nums <- sample(1:100, 30)
+hist(nums)
+hist(nums, breaks=c(0,10,20,30,40,50,60,70,80,90,100))
+hist(nums, breaks=c(0,50,100))
+hist(nums, breaks=c(0,33,66,100))
+
+
+(score <- sample(0:100, 30))
+barplot(score)
+hist(score)
+hist(score, breaks=10)
+hist(score, breaks=2) #?
+hist(score, breaks=3) #? 
+hist(score, breaks=4) #? 
+hist(score, breaks=5) #?
+hist(score, breaks=6) #? 
+hist(score, breaks=7) #? 
+hist(score, breaks=8) #? 
+hist(score, breaks=9) #? 
+hist(score, breaks=c(0,20,30,40,50,100))
+
+
+# 추세선 추가
+hist(성적$국어, main="성적분포-국어", xlab="점수", ylab="학생수", col=rainbow(12), border = "pink")
+hist(성적$국어, main="성적분포-국어", xlab="점수", ylab="도수", col=rainbow(12), border = "pink",prob=T)
+lines(density(성적$국어, bw=0.5), col="red", lwd=3)
+lines(density(성적$국어, bw=1.0), col="blue", lwd=3)
+
+
+
+# 박스플롯
+summary(성적$국어)
+boxplot(성적$국어, col="yellow",  ylim=c(0,10), xlab="국어", ylab="성적")
+
+
+성적2 <- 성적[,3:5]
+boxplot(성적2, col=rainbow(3), ylim=c(0,10), ylab="성적")
+
+data <- read.table("온도.txt", header=TRUE, sep=",")
+head(data, n=5); 
+boxplot(data)
+boxplot(data, las = 2)
+boxplot(data, las = 2, at = c(1,2,3,4, 6,7,8,9, 11,12,13,14))
+chtcols = rep(c("red","sienna","palevioletred1","royalblue2"), times=3)
+chtcols
+boxplot(data, las = 2, at = c(1,2,3,4, 6,7,8,9, 11,12,13,14), col=chtcols)
+grid(col="gray", lty=2, lwd=1)
+
+rainbow()
+heat.colors()
+terrain.colors()
+topo.colors()
+cm.colors()
+gray.colors()
