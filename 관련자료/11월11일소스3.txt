@@ -1,0 +1,80 @@
+(1)
+
+library(shiny)
+shinyUI(fluidPage(
+  titlePanel("제목 패널"),
+  sidebarPanel("측면 패널"),
+  mainPanel("메인 패널")
+))
+
+
+library(shiny)
+shinyServer(function(input, output) {
+  # 내용 없음
+})
+
+
+(2)
+
+
+library(shiny)
+
+shinyUI(fluidPage(
+  titlePanel("제목 패널"),
+  sidebarPanel("측면 패널"),
+  mainPanel(
+    h3("iris 요약통계량 결과"),
+    #verbatimTextOutput("summary")
+    textOutput("summary")
+  )
+))
+
+
+library(shiny)
+
+shinyServer(function(input, output){
+  output$summary <- renderPrint({
+    dataset <- iris[-5]
+    summary(dataset)
+  })
+  
+})
+
+
+(3)
+
+library(shiny)
+shinyUI(fluidPage(
+  titlePanel("Sliders"),
+  sidebarLayout(
+    sidebarPanel(
+      sliderInput("aaa", "Integer:",
+          min=0, max=1000, value=500)
+    ),
+    mainPanel(
+      h1("테스트"),
+      tableOutput("values")
+      #textOutput("values")
+    )
+  )
+))
+
+
+library(shiny)
+shinyServer(function(input, output){
+  sliderValues <- reactive({
+   data.frame(
+     Parameter="BBB",
+     Value = as.character(input$aaa)
+   ) 
+   
+  })
+  output$values <- renderTable({
+    sliderValues()
+  })
+  #output$values <- renderPrint({
+  #  sliderValues()
+  #})
+})
+
+

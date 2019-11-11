@@ -9,6 +9,7 @@
 
 word <- readLines("./data/yes24.txt", encoding = "UTF-8")
 word
+
 word2 <- sapply(word, extractNoun, USE.NAMES = F)
 
 word3 <- unlist(word2)
