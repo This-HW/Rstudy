@@ -39,3 +39,12 @@ df_l %>% filter(local_code=="A" | local_code== "B") %>%
   filter(temp>=50) %>% count()
 
 
+c(1,2,3)+c(3,4,5,6)
+x<- c(1,2,3)
+y<-c(3,4,5,6,7)
+x+y
+
+x <- c(1, 4, NA, 0, 5)
+stdev(x, na.rm=TRUE, unbiased=TRUE)
+
+
