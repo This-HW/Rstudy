@@ -1,0 +1,11 @@
+library(KoNLP)
+useSejongDic()
+
+yes <- readLines("yes24.txt")
+yes <- extractNoun(yes)
+yes <- unlist(yes)
+yes <- gsub("[^가-힣]","",yes)
+yes <- Filter(function(x) {nchar(x)>=2},yes)
+yes <- table(yes)
+yes <- sort(yes,decreasing = T)
+head(yes)
