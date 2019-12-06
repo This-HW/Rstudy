@@ -7,7 +7,7 @@
 ###########################################
 
 
-
+library(Kormaps)
 DONG<-read.csv('./data/one.csv')
 data(korpopmap3)
 Encoding(names(korpopmap3))<-'UTF-8'

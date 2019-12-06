@@ -43,7 +43,7 @@ ggsave("./data/result4.png")
 #문제5
 product_click <- read.table("./data/product_click.log")
 ggplot(product_click, aes(x=V2)) + geom_bar(aes(fill=V2))
-ggsave("./data/result5.png")
+# ggsave("./data/result5.png")
 
 
 #문제6
@@ -51,4 +51,4 @@ day <- as.Date(substr(product_click$V1,1,8),"%Y%m%d")
 day <- weekdays(day)
 weeks <- as.data.frame(day)
 ggplot(weeks, aes(x=day)) + geom_bar(aes(fill=day))+ labs(x="요일", y="클릭수") + theme_bw()
-ggsave("./data/result6.png")
+# ggsave("./data/result6.png")
