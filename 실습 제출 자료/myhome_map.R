@@ -25,7 +25,7 @@ if(sec <=14){
 
 map <- get_googlemap(center = cen , maptype=type,zoom=15, marker=mk)
 ggmap(map)
-ggsave("./data/mymap.png")
+# ggsave("./data/mymap.png")
 
 
 
